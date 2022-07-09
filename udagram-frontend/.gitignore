@@ -29,6 +29,9 @@ plugins/android.json
 plugins/ios.json
 $RECYCLE.BIN/
 
+frontend-service.yaml
+deployment.yaml
+
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate

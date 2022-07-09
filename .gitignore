@@ -13,6 +13,9 @@ log.txt
 npm-debug.log*
 *sh
 
+/aws-secret.yaml
+/env-configmap.yaml
+/env-secret.yaml
 .idea/
 .ionic/
 .sourcemaps/
